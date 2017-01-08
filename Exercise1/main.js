@@ -1,6 +1,4 @@
-/*=========================================================
-    Part 1: Variables
-*/
+
 var givenName;
 // Q: What value is stored in `givenName` right now?
 // A:There is no value
